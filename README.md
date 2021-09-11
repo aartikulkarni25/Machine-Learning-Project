@@ -12,3 +12,5 @@
 3. Train the model
 4. Test the model on some images
 5. Play the game with your computer!
+## Kaggle link
+https://www.kaggle.com/ihelon/rock-paper-scissors-agents-comparison
